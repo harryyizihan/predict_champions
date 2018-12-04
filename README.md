@@ -1,1 +1,2 @@
-# League of Legends Champions Recommender
+# League of Legends Champion Recommender System
+
